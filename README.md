@@ -13,7 +13,7 @@ This project analyzes student academic performance using Python and visualizes i
 - Tableau Public
 
 ## 📊 Tableau Dashboard
-👉 https://public.tableau.com/your-dashboard-link
+👉 https://public.tableau.com/views/StudentPerformanceAnalysisDashboard_17686526480900/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 📌 Key Insights
 - Reading has the highest average score
